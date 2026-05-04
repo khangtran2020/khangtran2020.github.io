@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/icml-2026c
 # excerpt: 'This paper is about fixing template issue #693.'
-date: 2026-01-01
+date: 2026-05-01
 venue: 'The 43th International Conference on Machine Learning'
 # paperurl: 'https://arxiv.org/pdf/2604.17715'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
